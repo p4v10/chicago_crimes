@@ -47,7 +47,7 @@ I think we already have an answer for questions #1 and #2.
 st.write("""
 Now let's separate crimes by type and see is there any difference?
 """)
-st.image('img/crime_type.PNG', width=695)
+st.image('crime_type.PNG', width=695)
 st.write("""
 *Credit for this plot goes to:* **Fahd Alhazmi**
 """)
