@@ -68,7 +68,7 @@ There is a lot of work that should be done to prevent all this crimes. I would l
 st.write("""
 On this chart we are going to look at crime distribution by type.
 """)
-st.image('crimes_by_type2.PNG', width=695)
+st.image('img/crimes_by_type2.PNG', width=695)
 st.write("""
 We can see that some types of crime are most common to happen in Chicago area. The top 5 crimes from 2001 - Present are **Theft**,**Battery**, **Criminal Damage**, **Narcotics** and **Assaults**.
 """)
