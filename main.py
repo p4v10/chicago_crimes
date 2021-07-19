@@ -31,7 +31,7 @@ st.write("""
 On this chart we can see a clear periodic pattern in the crimes over many years.
 """)
 
-st.image('/img/crimes_per_month.png', width=695)
+st.image('crimes_per_month.png', width=695)
 
 st.write("""
 Now let's take a look on the arrest rate during the same period of time.
