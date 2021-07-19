@@ -21,9 +21,7 @@ In this project, I am going to explore more about crime in Chicago and try to an
 *3. Are some types of crimes more likely to happen in specific locations or specific time?*
 """)
 
-st.write("""
-This dataset is imported from [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present-Dashboard/5cd6-ry5g). Cointains a record of crimes occured in the City of Chicago from 2001 to present, minus the most recent seven days.
-""")
+
 
 st.write("""
 ## Let us begin!
@@ -82,4 +80,8 @@ st.image('img/2crimes_by_location.png', width=695)
 st.write("""
 This chart is providing very important information for us as residents of Chicago City. From here we can see that most of the crimes are use to happen on the streets **1.909.913** cases as well as **706.919** cases on Sidewalk.
 Residences and Appartments are on the top of the list too and I believe it has too deal with specific type or crime that happens in these locations.
+""")
+
+st.write("""
+This dataset is imported from [Chicago Data Portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present-Dashboard/5cd6-ry5g). Cointains a record of crimes occured in the City of Chicago from 2001 to present, minus the most recent seven days.
 """)
